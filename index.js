@@ -1,1 +1,2 @@
-console.log('hello, KiberKotletochka!')
+name = "KiberKotletochka"
+console.log('hello, ' + name + "!")
